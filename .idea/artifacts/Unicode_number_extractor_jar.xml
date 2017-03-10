@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Unicode number extractor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Unicode_number_extractor_jar</output-path>
+    <root id="archive" name="Unicode number extractor.jar">
+      <element id="module-output" name="Unicode number extractor" />
+    </root>
+  </artifact>
+</component>
